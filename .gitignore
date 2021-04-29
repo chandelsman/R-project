@@ -1,3 +1,9 @@
+# Files or folders containing PHI
+data/
+
+# macOS desktop services
+.DS_Store
+
 # History files
 .Rhistory
 .Rapp.history

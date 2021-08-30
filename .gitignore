@@ -2,6 +2,7 @@
 data/
 
 # macOS desktop services
+**/.DS_Store
 .DS_Store
 
 # History files
